@@ -1,0 +1,1 @@
+"""Content generation application package."""
